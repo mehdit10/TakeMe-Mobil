@@ -38,7 +38,10 @@ const config = {
     Login: {
       path: "",
     },
+    Profil: "Profil",
+    Connect: "Connect",
     Welcome: "welcome",
+    UpdateProfile: "UpdateProfil",
     Demo: {
       screens: {
         DemoShowroom: {
